@@ -28,10 +28,8 @@ set(
   FindADAPTAGRAMS.cmake
   FindASTYLE.cmake
   FindAppleseed.cmake
-  FindASSETIMPORT.cmake
   FindBlosc.cmake
   FindBSON.cmake
-  FindFontconfig.cmake
   FindGECODE.cmake
   FindGEOGRAM.cmake
   FindGTE.cmake
@@ -76,7 +74,6 @@ set(
   Path_Setup.cmake
   RPath_Setup.cmake
   ResetCache.cmake
-  TCL_PKGINDEX.cmake
   TrackFiles.cmake
   compat/README
   compat/README.compat
